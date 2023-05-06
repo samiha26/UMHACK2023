@@ -1,2 +1,0 @@
-#sjhsfdsjfnskf
-print("hi")
